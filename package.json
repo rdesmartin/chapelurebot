@@ -1,0 +1,24 @@
+{
+  "name": "chapelurebot",
+  "version": "1.0.0",
+  "description": "chapelureBot",
+  "main": "chapelureBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdesmartin/chapelurebot.git"
+  },
+  "author": "Rémi Desmartin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdesmartin/chapelurebot/issues"
+  },
+  "homepage": "https://github.com/rdesmartin/chapelurebot#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "http-server": "^0.11.1",
+    "twit": "^2.2.9"
+  }
+}
